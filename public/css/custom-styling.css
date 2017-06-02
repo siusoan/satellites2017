@@ -1,0 +1,88 @@
+header {
+  color: rgb(255, 255, 255);
+  background: rgb(41, 41, 41);
+  padding: 15px;
+}
+
+
+
+h1 {
+  color: rgb(255, 52, 113);
+  font-size: 4em;
+  font-weight: bold;
+  text-align: center;
+  text-shadow: 10px 10px 20px rgb(41, 41, 41);
+  position: relative;
+  top: 35%;
+  transform: translateY(-50%);
+}
+
+div.section-intro>h2 {
+  color: rgb(255, 52, 113);
+  font-size: 1em;
+  font-weight: bold;
+  text-align: center;
+  text-shadow: 10px 10px 20px rgb(41, 41, 41);
+  position: relative;
+  top: 25%;
+  transform: translateY(-50%);
+}
+
+h3 {
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-bottom: 25px;
+}
+
+p {
+  font-size: 1.2em;
+  line-height: 25px;
+}
+
+section {
+  margin-bottom: 50px;
+}
+
+div.section-intro {
+  height: 400px;
+  margin-bottom: 80px;
+}
+
+div.section-s {
+  margin: 0 auto !important;
+}
+
+a.venue {
+  font-size: 1.2em;
+  color: rgb(40, 179, 231);
+  text-decoration: none;
+  margin-right: 25px;
+}
+
+a.venue::before {
+  content: "+";
+}
+
+a.venue:hover {
+  text-decoration: underline;
+}
+
+ul li {
+  margin-bottom: 10px;
+}
+
+.carousel {
+  background: #EEE;
+  margin-bottom: 50px;
+}
+
+.carousel img {
+  display: block;
+  height: 400px;
+}
+
+footer {
+  font-size: 0.8em;
+  color: rgb(148, 148, 148);
+  background: rgb(65, 65, 65);
+}

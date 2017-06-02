@@ -1,0 +1,105 @@
+{
+    "artworks":
+    [
+        {
+            "title": "On the Pillow",
+            "id": "satellite01",
+            "date": "2000",
+            "artist":"Yang Zhenzhong",
+            "room": ["Space1", "Space4"],
+            "venue": ["Shirakawa"],
+            "description": "Yang Zhenzhong taps into the unexpected, confronts the viewer and stirs up thoughts and feelings. On the Pillow shows a series of black and white photographs of couples lying in bed. Although a shot like this usually evokes an erotic atmosphere, the mood is abruptly disturbed here. The people have disfigured heads and anxious facial expressions. These powerful images have an astounding and alienating effect.",
+            "image": "satellites_artwork_1.jpg"
+        },
+        {
+            "title": "Eeroo-tic",
+            "id": "satellite02",
+            "date": "1971 - 2000",
+            "artist":"Paul De Vree",
+            "room": ["Space1", "Space4", "Space7"],
+            "venue": ["Shirakawa", "Miyoshi", "Hirano"],
+            "description": "De Vree used word montages and the graphic distribution of words on canvas to create visual pictures in which word and word image invite the viewer to create associations and where the visual picture can generate an aesthetic appreciation. He employed the typewriter to produce so-called ‘typograms’, poems which take on the form of a recognisable figure or object. De Vree used the phrase ‘in the shape of’ to highlight their figurative character. A stylised female torso is outlined in Eeroo-tic: the words ‘eerootic’ and ‘tic’ serve to suggest erogenous zones, including the mouth, breasts, navel and mons Veneris. These zones are represented both visually-graphically and semantically with the word ‘tic’. Eroticism is a recurrent theme in De Vree’s oeuvre. This subjective thematization is less present in the concrete-visual poetry, but recurs in the poesia visiva, in which De Vree denounces the brutal exploitation of sexuality in the mass media. No immediate message is present in Eeroo-tic, however, except the thematization of sexuality.",
+            "image": "satellites_artwork_2.jpg"
+        },
+        {
+            "title": "Hain [Grove]",
+            "id": "satellite03",
+            "date": "2006",
+            "artist":"Franz West",
+            "room": ["Space3", "Space6"],
+            "venue": ["Shirakawa"],
+            "description": "Franz West made Hain especially for the M HKA. The work comprises three meters-high lamps that spread a vivid green light throughout the exhibition room. It was West’s response to the question of how to have museum visitors forget what a mediocre world we’re living in. The title Hain is a playful wink to fellow-artists Haim Steinbach and Heimo Zobernig, as well as being the German word for ‘grove’.",
+            "image": "satellites_artwork_3.jpg"
+        },
+        {
+            "title": "Malmédy",
+            "id": "satellite04",
+            "date": "1990 - 1991",
+            "artist":"Raoul De Keyser",
+            "room": ["Space2", "Space5"],
+            "venue": ["Miyoshi"],
+            "description": "Raoul De Keyser was a painter in the true sense of the word. His oeuvre is the result of a consistent and idiosyncratic study of the medium of painting and the phenomenon we call ‘painting’. His sober compositions, his interest in monochrome painting and his analytical attitude vis-à-vis painting’s fundamentals (texture, execution of line, support, materials, format), bring his work close to minimal and fundamental painting. Nevertheless, his painting cannot be termed purely conceptual: De Keyser always tempers the strictness of his programmatic approach with intuition and feeling. Moreover, De Keyser usually based his abstract works on concrete everyday images, so there is always a bit of reality shining through.",
+            "image": "satellites_artwork_4.jpg"
+        },
+        {
+            "title": "Indian Summer",
+            "id": "satellite05",
+            "date": "1996",
+            "artist":"Marlene Dumas",
+            "room": ["Space6", "Space7"],
+            "venue": ["Hirano"],
+            "description": "I use all the cheap tricks of attracting attention: eyes looking at you, sexual parts exposed or deliberately covered. The primitive pull of recognition. The image as prostitute. You are forced to say yes or no.",
+            "image": "satellites_artwork_5.jpg"
+        },
+        {
+            "title": "The Kiss",
+            "id": "satellite06",
+            "date": "1986",
+            "artist":"Lili Dujourie",
+            "room": ["Space1", "Space4"],
+            "venue": ["Hirano"],
+            "description": "In The Kiss the red drapery and the bowl, filled with a fluorescent blue liquid, refer to classical still lifes. Rounded and whirling forms of velvet and wood are confronted with the strict geometric construction of the black triangular element. The title The Kiss matches the draperies, that both veil and unveil. The confrontation of hard and soft materials, the stilled movement, add a romantic tension to the work, in the atmosphere of love and death, Eros and Thanatos.",
+            "image": "satellites_artwork_6.jpg"
+        },
+        {
+            "title": "Screens",
+            "id": "satellite07",
+            "date": "2006",
+            "artist":"Carla Arocha",
+            "room": ["Space1", "Space7"],
+            "venue": ["Shirakawa", "Miyoshi", "Hirano"],
+            "description": "Screen is a mobile composed of six pieces of opaque, milky-white Perspex sheet that can be suspended in a variety of arrangements. In this way it looks as if they are to be used as projection screens for an image or idea that still has to be materialised – a symbol of the dynamics of ‘projection’ in its broadest sense. Each time this work enters into direct dialogue with the surrounding works and space and puts them in a different ‘light’.",
+            "image": "satellites_artwork_7.jpg"
+        },
+        {
+            "title": "Orange Border",
+            "id": "satellite08",
+            "date": "2001",
+            "artist":"Koen van den Broek",
+            "room": ["Space6"],
+            "venue": ["Shirakawa"],
+            "description": "Details, inconspicuous elements from our environment – cracks in the road or sidewalk – are central to the paintings of Koen Van den Broek. He renders them in a clear, descriptive manner. Still, the motifs are depicted in such a way that the focus is not immediately clear, or shifts. The paintings balance on the border of abstraction and figuration. Sometimes the title offers an answer, like the case here with Orange border, while in other cases the title lacks a concrete interpretation.",
+            "image": "satellites_artwork_8.jpg"
+        },
+        {
+            "title": "Debris",
+            "id": "satellite09",
+            "date": "2011 - 2012",
+            "artist":"Bart Stolle",
+            "room": ["Space3", "Space5"],
+            "venue": ["Miyoshi"],
+            "description": "For his piece Debris, Stolle uses a modernistic and formal language; he desires to obtain the maximum effect with a minimum of means. A city is made up out of squares and dots, moving surfaces and landscapes are reduced to nothing more than a line.",
+            "image": "satellites_artwork_9.jpg"
+        },
+        {
+            "title": "Down Under",
+            "id": "satellite10",
+            "date": "2009",
+            "artist":"Sheela Gowda",
+            "room": ["Space6", "Space4"],
+            "venue": ["Hirano"],
+            "description": "The work Down Under consists of four patchwork quilt covers that the artist bought 30 years ago. These were made by poor women who used the bits and pieces discarded by the Textile Mills of Gujarat. The quilts were primarily bought for their bold colour collages as much as for the rawness and rudimentary nature of their making. 30 Years later the patches of colours appliquéd upon with other printed textiles gains other readings, especially the political. One quilt cover now stuffed with a quilt has a garland of flowers appliquéd on to it like a mourning offering to a person lying beneath it perhaps, while a rectangular piece of polished black granite resembling a tombstone sinks into the soft thickness of the quilt, denting its surface. Another has remnants of cut fabric, abstract and irregular, appliquéd on to it.A crude metal bowl lies next it with bits of metal that seemingly appear like coins in a beggar's bowl. The third has comic strip motifs of explosions, smoke clouds, as seen from above, appliquéd on to it with a paper plane lying beside it on the floor, like a parody of war in a child’s room. In the fourth the entire quilt doubles as a landscape as seen from an aeroplane. The existing blue patches of the quilt cover appear like water bodies interconnected by appliquéd blue cloth, canals meandering by green fields. Existing red rectangular patches become fluid and organic, disturbing the seeming pastoral scene. Though only a meter long, a plumbing pipe with remnants of red paint on it lies heavily on this scene, innocuous but threatening as a tool of attack. Playing with the idea of scale and position of the viewer and of the seen, the pipe could become a pipeline in a large geographic area, signifying other levels of political and economic violence.",
+            "image": "satellites_artwork_10.jpg"
+        }
+    ]
+}

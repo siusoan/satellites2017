@@ -1,0 +1,27 @@
+{
+    "artworks":
+    [
+        {
+            "title": "On the Pillow",
+            "id": "satellite01",
+            "date": "2000",
+            "artist":"Yang Zhenzhong",
+            "room": ["Space1", "Space4"],
+            "venue": ["Shirakawa", "Miyoshi"],
+            "description": "Yang Zhenzhong taps into the unexpected, confronts the viewer and stirs up thoughts and feelings. On the Pillow shows a series of black and white photographs of couples lying in bed. Although a shot like this usually evokes an erotic atmosphere, the mood is abruptly disturbed here. The people have disfigured heads and anxious facial expressions. These powerful images have an astounding and alienating effect.",
+            "thumbnail": "",
+            "photo1": ""
+        },
+        {
+            "title": "Stephen Hawking believes we have 100 years left on Earth – and he's not the only one",
+            "id": 101,
+            "date": "19/05/2017 • 09:45",
+            "author":"Bonnie Christian",
+            "category": ["Science"],
+            "summary": "As part of the BBC’s new science series Tomorrow’s World, Professor Hawking said he thinks due to climate change, overdue asteroid strikes, epidemics and population growth, humans will need to find a new planet to populate within a single lifetime",
+            "body": "<p class=\"article-body\">Professor Stephen Hawking says he is not alone in believing humans need to find a new planet to live on within 100 years if it is to survive.</p><p class=\"article-body\">As part of the BBC’s new science series Tomorrow’s World, Professor Hawking said he thinks due to climate change, overdue asteroid strikes, epidemics and population growth, humans will need to find a new planet to populate within a single lifetime – revised from the 1,000 year time limit he gave last November.</p><p class=\"article-body\">Speaking at The Royal Society in London ahead of the Starmus IV festival, Professor Hawking said he and others will elaborate on this view at the science and music festival held in Trondheim, Norway.</p><p class=\"article-body\">“I strongly believe we should start seeking alternative planets for possible habitation,” he said. “We are running out of space on earth and we need to break through technological limitations preventing us living elsewhere in the universe.”</p><p class=\"article-body\">“I am not alone in this view and many of my colleagues will make further comments at the Starmus next month.”</p><p class=\"article-body\">Hawking isn't the only one who has advocated for a multi-planet species. SpaceX boss Elon Musk has grand plans to launch space colonies in the next 100-years and Nasa has said its Mars missions could help to put humans permanently on other planets.</p><p class=\"article-body\">Neuroscientist and Nobel Laureate Edvard Moser, who will also be at the Starmus event, said Professor Hawking has emphasised the need for science in society, at a time when communicating science is more important than ever.</p>",
+            "thumbnail": "digibytes_thumbnail_101.jpg",
+            "photo1": "digibytes_101_1.jpeg"
+        }
+    ]
+}

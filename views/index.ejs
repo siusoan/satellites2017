@@ -1,0 +1,33 @@
+<% include header %>
+<div class="pure-g content">
+  <div class="pure-u-1 section-intro parallax-container" data-parallax="scroll" data-image-src="../img/muhka_1.jpg">
+    <h1>サテライト</h1>
+    <h2>M HKA BELGIUM + MOT JAPAN | SUMMER 2017</h2>
+  </div>
+  <div class="pure-u-5-12 section-s">
+    <section>
+      <h3>VENUES</h3>
+      <ul>
+        <% for (var i = 0; i < venues.length; i++) { %>
+          <li><a href="/venues/<%- i %>" class="venue"><%- venues[i] %></a></li>
+        <% } %>
+      </ul>
+    </section>
+    <section>
+      <h3>ROOMS</h3>
+      <ul>
+      <% for (var i = 0; i < rooms.length; i++) { %>
+        <li><a href="/rooms/<%- i %>" class="venue"><%- rooms[i] %></a></li>
+      <% } %>
+      </ul>
+    </section>
+  </div>
+  <div class="pure-u-1 gallery">
+    <div class="carousel" data-flickity='{ "imagesLoaded": true }'>
+      <% var teller = 0; for(var i=0;i<artwork.length;i++){ %>
+        <img src="/img/<%- artwork[i].image %>" alt="<%- artwork[i].title %>" title="<%- artwork[i].title %>">
+      <% } %>
+    </div>
+  </div>
+</div>
+<% include footer %>
