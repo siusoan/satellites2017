@@ -9,4 +9,10 @@ root.get('/', function(req, res) {
   });
 });
 
+root.get('/collection', function(req, res) {
+  res.render("collection", {
+    artwork: req.app.get('artworksFile').artworks
+  });
+});
+
 module.exports = root;

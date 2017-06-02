@@ -5,40 +5,7 @@ header {
 }
 
 
-
-h1 {
-  color: rgb(255, 52, 113);
-  font-size: 4em;
-  font-weight: bold;
-  text-align: center;
-  text-shadow: 10px 10px 20px rgb(41, 41, 41);
-  position: relative;
-  top: 35%;
-  transform: translateY(-50%);
-}
-
-div.section-intro>h2 {
-  color: rgb(255, 52, 113);
-  font-size: 1em;
-  font-weight: bold;
-  text-align: center;
-  text-shadow: 10px 10px 20px rgb(41, 41, 41);
-  position: relative;
-  top: 25%;
-  transform: translateY(-50%);
-}
-
-h3 {
-  font-size: 1.5em;
-  font-weight: bold;
-  margin-bottom: 25px;
-}
-
-p {
-  font-size: 1.2em;
-  line-height: 25px;
-}
-
+/*General lay-out*/
 section {
   margin-bottom: 50px;
 }
@@ -49,9 +16,86 @@ div.section-intro {
 }
 
 div.section-s {
-  margin: 0 auto !important;
+  margin: 0 auto 50px auto;
+}
+.carousel {
+  background: #EEE;
+  margin-bottom: 50px;
 }
 
+.carousel img {
+  display: block;
+  height: 400px;
+}
+
+div.artwork-square {
+  width: 250px;
+  height: 250px;
+  background-size: cover;
+  margin-bottom: 35px;
+}
+
+div.collection {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin: 0px auto 50px auto;
+}
+
+footer {
+  font-size: 0.8em;
+  text-align: center;
+  color: rgb(148, 148, 148);
+  background: rgb(65, 65, 65);
+  padding: 25px 10px 0px 10px;
+}
+
+
+/*Headings and paragraphs*/
+.title {
+  color: rgb(255, 52, 113);
+  font-weight: bold;
+  text-align: center;
+  text-shadow: 10px 10px 20px rgb(41, 41, 41);
+  position: relative;
+  top: 35%;
+  transform: translateY(-50%);
+}
+
+.intro-title {
+  font-size: 4em;
+}
+
+.intro-subtitle {
+  font-size: 1em;
+  top: 25%;
+}
+
+.artwork-title {
+  color: rgb(255, 255, 255);
+  font-size: 4em;
+}
+
+h3 {
+  font-size: 1.5em;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+h4 {
+  font-size: 0.9em;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+p {
+  font-size: 1.2em;
+  line-height: 25px;
+  margin-bottom: 25px;
+}
+
+/*Lists and links*/
 a.venue {
   font-size: 1.2em;
   color: rgb(40, 179, 231);
@@ -67,22 +111,32 @@ a.venue:hover {
   text-decoration: underline;
 }
 
+a.artwork-link {
+  width: 100%;
+  height: 100%;
+  font-size: 2em;
+  color: rgb(255, 255, 255);
+  line-height: 150px;
+  display: inline-block;
+  text-decoration: none;
+  text-align: center;
+}
+
+.invisible {
+  display: none;
+}
+
+
+
+
 ul li {
   margin-bottom: 10px;
 }
 
-.carousel {
-  background: #EEE;
-  margin-bottom: 50px;
-}
-
-.carousel img {
-  display: block;
-  height: 400px;
-}
-
-footer {
-  font-size: 0.8em;
+footer a{
   color: rgb(148, 148, 148);
-  background: rgb(65, 65, 65);
+}
+
+footer a:hover {
+  color: rgb(255, 255, 255);
 }
